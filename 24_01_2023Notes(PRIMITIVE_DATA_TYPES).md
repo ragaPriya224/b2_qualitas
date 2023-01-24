@@ -18,6 +18,8 @@ JRE,JDK ->https://www.youtube.com/watch?v=KYogNWbjZIU
 
 ![image](https://user-images.githubusercontent.com/90038032/214373427-9b28f464-c55b-4b5d-a46c-9baa48ad4fe4.png)
 
+      SYNTAX:
+
       type variableName = value;
 
 ![image](https://user-images.githubusercontent.com/90038032/214373531-a505117f-705d-44f0-a050-6ed1cc171da5.png)
