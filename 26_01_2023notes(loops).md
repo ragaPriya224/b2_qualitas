@@ -74,6 +74,48 @@ https://www.w3schools.com/java/java_switch.asp
 
 ![image](https://user-images.githubusercontent.com/90038032/214917798-426c361e-b0ff-452c-91fa-1b889d6671c2.png)
 
+-----------------------------------------------------------------------------------------
+ **DO WHILE LOOP SYNTAX:**
+    
+      do {
+      // code block to be executed
+      }
+      while (condition);
+   
+------------------------
+
+![image](https://user-images.githubusercontent.com/90038032/214918247-634c9e95-711d-4f43-b638-b9ef13692f8b.png)
+
+![image](https://user-images.githubusercontent.com/90038032/214918306-4a34b4e7-82ef-4cbe-9ed1-4f34164bca36.png)
+
+**FOR LOOP SYNTAX:**
+
+    for(initialization; condition; increment/decrement){    
+    //statement or code to be executed    
+    } 
+    
+![image](https://user-images.githubusercontent.com/90038032/214918428-974ca5a5-36a4-48f0-aa80-56bbe3f4c9b8.png)
+
+https://www.edureka.co/blog/30-pattern-programs-in-java/
+
+CHECK THESE
+1. Pyramid Program
+ Right Triangle Star Pattern
+. Left Triangle Star Pattern
+5. Downward Triangle Star Pattern
+Right Alphabetic triangle 
+
+![image](https://user-images.githubusercontent.com/90038032/214918784-dd8283e4-79b3-4946-810d-00bf136b27ab.png)
+
+![image](https://user-images.githubusercontent.com/90038032/214918859-a2404dc4-837d-4137-a752-929a4f79907d.png)
+
+![image](https://user-images.githubusercontent.com/90038032/214918947-6176999b-2079-4837-aac7-576de8d062e2.png)
+
+![image](https://user-images.githubusercontent.com/90038032/214919003-207471ea-843b-460d-b7f0-162f51eab6e7.png)
+
+![image](https://user-images.githubusercontent.com/90038032/214919052-193fad04-7f72-4baa-a6f3-74eef304b342.png)
+
+
 tasks for if:
 
 ![image](https://user-images.githubusercontent.com/90038032/214916397-914e4fcd-c952-4c0d-b274-80f73c94379d.png)
@@ -105,3 +147,29 @@ OPTIMISE THE BELOW CODE:
 TASKS FOR WHLE LOOP:
 
 ![image](https://user-images.githubusercontent.com/90038032/214917855-a5361b06-c997-4f5a-b152-c3cea1cb350f.png)
+
+TASKS FOR LOOP
+
+ using for loop, print numbers from 1 to 10
+ 
+using for loop, print numbers from 10 to 1
+
+store your name  in a variable and print it 3 times 
+
+using do while loop, and print numbers 1 to 10
+
+using do while loop, print number from 10 to 1
+
+using do while loop, print sum of numbers from 1 to 10
+
+use while loop, and print numbers 1 to 5
+
+print 
+2
+4
+6
+8
+10
+
+
+
