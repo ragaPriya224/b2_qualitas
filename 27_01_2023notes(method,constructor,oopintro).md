@@ -80,8 +80,17 @@ ANOTHER EXPLANATION FOR CLASS AND OBJECT:
 
 tasks:
 Question 1
+
 Write a program with a method named getTotal that accepts two integers as an argument and return its sum. Call this method from main( ) and print the results.
+
 Question 2
+
 Write a method named isEven that accepts an int argument. The method should return true if the argument is even, or false otherwise
-Question 3
-Write a value-returning method, isVowel that returns the value true if a given character is a vowel, and otherwise returns false. In main() method accept a string from user and count number of vowels in that stri
+
+tasks:
+
+EXERCISES RELATED TO OBJECT:
+
+1.create a class named Food with some variables and methods and then  create a object in same class, try to access these methods and variables
+
+2.create a class called Pizza and create a object for food class and try to acces the variables and methods in it. 
