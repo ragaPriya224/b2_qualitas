@@ -77,8 +77,28 @@ ANOTHER EXPLANATION FOR CLASS AND OBJECT:
 ![image](https://user-images.githubusercontent.com/90038032/211381250-6baade78-4c1f-406d-a2e2-5e90aa78d5d2.png)
 **-------------------------------------------------------------------------------------------------------------**
 
+![image](https://user-images.githubusercontent.com/90038032/215137719-a9f14377-ddb9-4d37-9d9d-dee75676d3e2.png)
 
-tasks:
+![image](https://user-images.githubusercontent.com/90038032/215137777-22f2ce39-651b-4fc8-8829-d6d7f978cc21.png)
+
+![image](https://user-images.githubusercontent.com/90038032/215137834-98ab6fc6-3735-4678-9d35-9fca417bb3b6.png)
+
+
+
+
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/constructor_java.pdf
+
+
+
+
+
+
+
+
+
+
+tasks for method: 
 Question 1
 
 Write a program with a method named getTotal that accepts two integers as an argument and return its sum. Call this method from main( ) and print the results.
