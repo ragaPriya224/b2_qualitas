@@ -1,0 +1,53 @@
+![image](https://user-images.githubusercontent.com/90038032/211867484-2f442a87-8be9-4f5f-8178-79a558c3adbf.png)
+
+OBJECT CREATION:
+
+ ![image](https://user-images.githubusercontent.com/90038032/211867175-f55c6ecd-9663-440a-83fb-02272b9c3b36.png)
+ 
+ ![image](https://user-images.githubusercontent.com/90038032/211867577-1b4e4520-9254-44a7-944c-d38df2c611e4.png)
+
+ https://github.com/ragaPriya224/B1_tyconsult/blob/master/class_object_6YearOld.pdf
+
+
+**-------------------------------------------------------------------------------------------------------------------------**
+
+INHERITANCE:
+
+![image](https://user-images.githubusercontent.com/90038032/211867026-8f5f5c29-8311-408e-8b89-539be09bb646.png)
+
+![AC](https://user-images.githubusercontent.com/90038032/211872972-e0b52711-eb9e-41a9-b178-8ccd700dea9c.jpg)
+
+ https://github.com/ragaPriya224/B1_tyconsult/blob/master/oops_inheritance_realifeExample%20(3).pdf
+
+ https://github.com/ragaPriya224/B1_tyconsult/blob/master/why_we_use_inheritance_realcode.pdf
+
+
+
+**-------------------------------------------------------------------------------------------------------------------------**
+POLYMORPHISM
+
+
+![image](https://user-images.githubusercontent.com/90038032/211873978-c698f564-9a77-485e-98bd-d94a410db2b2.png)
+
+
+![image](https://user-images.githubusercontent.com/90038032/211873855-b039989f-ea76-43b5-b7fe-b29d81d69a07.png)
+
+
+![image](https://user-images.githubusercontent.com/90038032/211873336-fbe375f7-005d-4960-b7d4-b15605f8525c.png)
+
+**-------------------------------------------------------------------------------------------------------------------------**
+
+TASKS:
+create a class named Food with some variables and methods and then  create a object in same class, try to access these methods and variables
+
+create a class called Pizza and create a object for food class and try to acces the variables and methods in it. 
+
+--------------------------------------------------------------------------------------------------------------------------
+1. create a class named dog and have any fields like colour, age , cost anything.. and try creating atleast 2- 3 objects with name like husky, dalmation, anything
+ 
+2.try to create a default constructor and a parameterised constructor and use it in your class
+
+----------------------------------------------------------------------------------------------------------------------
+TRY WRITING CODE TO ACHIEVE SINGLE , MULTI LEVEL, HIERARCHICAL INHERITANCE
+
+-----------------------------------------------------------------------------------------------------------------------------
