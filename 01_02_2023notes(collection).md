@@ -1,3 +1,5 @@
+for encapsulation :https://github.com/ragaPriya224/b2_qualitas/blob/master/encapsulation_simple_vai.pdf
+
 
 checkout scanner class, if possible in google
 
