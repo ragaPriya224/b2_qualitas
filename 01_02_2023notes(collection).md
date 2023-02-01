@@ -1,7 +1,16 @@
 
-checkout scanner class
+checkout scanner class, if possible in google
+
+https://www.youtube.com/watch?v=8cm1x4bC610
+
+complete this video fully,complete it in a week 
+
+
 
 ![image](https://user-images.githubusercontent.com/90038032/214899440-3bb5f01c-7c9a-4f2f-ae5f-de8a054a4bf4.png)
+
+![image](https://user-images.githubusercontent.com/90038032/216091906-ebefa785-de87-48c5-94b1-6a954906476f.png)
+
 
 ![image](https://user-images.githubusercontent.com/90038032/214899503-682e9f6a-76c4-4874-9f82-0391ea33bc82.png)
 
