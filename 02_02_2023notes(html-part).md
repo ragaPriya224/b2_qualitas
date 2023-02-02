@@ -42,11 +42,17 @@ https://github.com/ragaPriya224/b2_qualitas/blob/master/html_intro_doodle.png
 
   List
  Ordered list  ul, li
+ 
  Unordered list -> ol, li 
+ 
    Change bulletin
+   
 Description list  dl
+
 Tables
+
    Head -> tr, th 
+   
    body ->tr,td  
       
     
