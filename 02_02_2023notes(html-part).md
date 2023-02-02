@@ -2,6 +2,10 @@ REFER W3SCHOOLS
 
 https://www.w3schools.com/html/default.asp
 
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML_Basic_Tags.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/html_intro_doodle.png
+
 ![image](https://user-images.githubusercontent.com/90038032/214480988-e89aed0e-c25a-48eb-9bc0-a819e843d360.png)
 
 -----------------
