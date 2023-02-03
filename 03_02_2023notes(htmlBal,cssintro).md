@@ -12,7 +12,13 @@ https://www.w3schools.com/html/html_form_input_types.asp
 
 https://www.w3schools.com/html/html_form_attributes.asp
 
+https://github.com/ragaPriya224/b2_qualitas/blob/master/input_types_html_2page.pdf
 
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML5%20Semantic%20Elements.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML_Basic_Tags.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML_Input%20type.pdf
 
 CSS INTRO:
 refer w3schools 
