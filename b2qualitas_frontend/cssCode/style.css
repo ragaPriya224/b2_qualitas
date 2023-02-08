@@ -1,0 +1,25 @@
+h1,h2{
+
+    color:red;
+    /* text-align: right; */
+}
+h1{
+    color: pink !important;
+}
+#id1{
+    background-color: yellow;
+    height:400px;
+    width:70%;
+   
+}
+.italicStyle{
+    font-style: italic;
+}
+
+h1{
+    color:green;
+}
+body{
+    margin-left:15px;
+    
+}
