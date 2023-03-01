@@ -1,2 +1,47 @@
 <p>test works!</p>
 <p>myself test component</p>
+
+{{name}} <br>
+{{name.length}}<br>
+{{name.toUpperCase()}}<br>
+
+{{3+2}} //evaluate content
+
+{{greetUser()}}
+
+<h2  class = "text-success">
+   angular
+</h2>
+
+<h2  [class] = "successClass">
+    coding
+ </h2>
+
+ 
+<h2  [style.color] = "'orange'">
+    keyboard
+ </h2>
+
+ <button  (click)="onClick()">greet</button>
+
+ <h2 *ngIf = "true">
+    conditionCheck
+ </h2>
+
+ <h2 *ngIf = "display">
+    check
+ </h2>
+
+ <h2 *ngIf = "display ;else elseBlock ">
+    displaying
+ </h2>
+ <ng-template #elseBlock>
+<h2>name hidden</h2>
+ </ng-template>
+
+
+
+ 
+ <div [ngSwitch]= "color">
+    check
+ </h2>
