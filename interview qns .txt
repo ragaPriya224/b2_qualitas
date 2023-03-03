@@ -1,0 +1,83 @@
+java8				
+				
+programming concepts in java8				
+emp class with fields , i wnt to fetch list of employees whose salary greater than something				
+emp class with fields, fetch list of employees based on departments (hint: groupingby)				
+				
+java				
+write add two arrays and populate that into a new array .				
+				
+				
+				
+				
+diff betweenlist & AL				
+internal implementation of hashmap				
+diff hashmap & concurrenthashmap				
+				
+y string immutable?				
+diff between stringbuilder,buffer?				
+				
+				
+spring:				
+				
+				
+@SB,				
+dI?				
+bean scope?				
+@Data   Jpa				
+@Entity,@Table				
+diff b/w soap and rest?				
+@Getmapping,put,post,delete				
+diff restcontroller vs controller?				
+actuator?				
+				
+				
+				
+diff between mono and micro?				
+				
+have u used splunk?				
+				
+				
+DP?				
+what all used? & y?		
+
+
+		
+		
+sql:		
+qn basic delete, truncate, joins		
+query:  fetch 10 reports from emp table		
+		
+java
+
+overridng
+
+oops concepts- each 
+
+array 
+"program : int a=1245679
+display like (124)-5679
+"
+
+
+sb
+pathvariable and query param
+responsebody
+DI
+actuator
+
+
+	ms
+	
+	
+	ms archit3ecture 
+	
+	SQL:
+"Innerjoin and OuterJoin
+"	
+Update Query
+	
+DDL, DML	
+    
+    
+    
