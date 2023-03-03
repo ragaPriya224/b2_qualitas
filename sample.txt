@@ -1,5 +1,5 @@
 //code for first textbox
-//code for second textbox 
+
 
  public name = "code";
 
@@ -12,5 +12,4 @@
   onClick(){
     console.log("hi button is clicked");
   }
-
-  public display = false;
+;
